@@ -16,3 +16,5 @@ Game Criteria and Rules:
     After either the player wins by guessing the correct letter or loses by guessing incorrectly ten times, the win or loss event will be tallied on the scoreboard and the number of guesses will reset to ten (the list of guessed letters will also reset after a win or loss event).  
     
     The computer will then randomly select a letter and the game will start again when the user submits their guess.
+    
+    https://patrickrice.github.io/Psycic-Game/index.html
